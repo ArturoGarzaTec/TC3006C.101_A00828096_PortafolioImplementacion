@@ -6,23 +6,22 @@ This repository is a demo of what is expected to deliver on each repository requ
 
 The root folder of this repository contains the following files and folders:
 
-- **Files**
-  - README.md: This file
-- **Folders**
-  - final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  - retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+- **Archivos**
+  - README.md: Este archivo.
+- **Carpetas**
+  - Final: Carpeta destinada a los entregables finales, incluyen los cambios solicitados por los revisores.
+  - Retroalimentación: Carpeta destinada a la versión borrador de cada entregable, favor de incluir retroalimentación.
 
-## Files for revision
+## Archivos para revisión
 
 Following is a list of the files that must be checked for grading each subcompetency:
 
-- *Module 1: Statistics*
+- *Módulo 1: Estadística*
   - *SMA0101A*
     - **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
-- *Module 2: Machine Learning*
+- *Módulo 2: Aprendizaje de Máquina*
   - *SMA0401A*
-    - **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-    - **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
+    - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework** Favor de revisar el archivo **Retroalimentacion/AprendizajeMaquina/Evidencia01/ImplementacionTecnica_ML.ipynb**
 
 ## Requested changes and replies
 
