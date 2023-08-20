@@ -1,10 +1,8 @@
 # TC3006C.101_A00828096_PortafolioImplementacion
 
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the implementation portfolio deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors.
+## Estructura de este repositorio
 
-## Structure of this repository
-
-The root folder of this repository contains the following files and folders:
+La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
 
 - **Archivos**
   - README.md: Este archivo.
@@ -14,7 +12,7 @@ The root folder of this repository contains the following files and folders:
 
 ## Archivos para revisión
 
-Following is a list of the files that must be checked for grading each subcompetency:
+A continuación, se muestra una lista de los archivos que se deben revisar para calificar cada subcompetencia:
 
 - *Módulo 1: Estadística*
   - *SMA0101A*
@@ -23,16 +21,14 @@ Following is a list of the files that must be checked for grading each subcompet
   - *SMA0401A*
     - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework** Favor de revisar el archivo **Retroalimentacion/AprendizajeMaquina/Evidencia01/ImplementacionTecnica_ML.ipynb**
 
-## Requested changes and replies
+## Cambios solicitados y respuestas
 
-Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
+A continuación, se incluye una lista de la ubicación de los problemas que se plantearon por los revisores durante la fase de comentarios. Por favor refiérase a ellos para más detalles.
 
-- *Module 1: Statistics*
+- *Módulo 1: Estadística*
   - *SMA0101A*
     - **Evidence 01: Modeling: final/M1_Statistics/README.md**
-- *Module 2: Machine Learning*
+- *Módulo 2: Aprendizaje de Máquina*
   - *SMA0401A*
-    - **Evidence 01: ML from scratch: final/M2_ML/README.md**
+    - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework -> final/M2_ML/README.md**
     - **Evidence 02: ML from a framework: final/M2_ML/README.md**
-      
-See you!
