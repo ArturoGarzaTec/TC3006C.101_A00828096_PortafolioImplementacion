@@ -1,5 +1,7 @@
 # TC3006C.101_A00828096_PortafolioImplementacion
 
+Este repositorio esta dedicado a las entregas individuales pertinentes al **portafolio de implementación** del curso TC3006C y es propiedad de:
+
 **Nombre: Arturo Garza Campuzano**
 
 **Matrícula: A00828096**
@@ -21,6 +23,11 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Módulo 2: Aprendizaje de Máquina*
   - *SMA0401A*
     - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework** Favor de revisar el archivo **Retroalimentacion/AprendizajeMaquina/Evidencia01/ImplementacionTecnica_ML.ipynb**
+    - **Evidencia 02: Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución** Favor de revisar el archivo **Retroalimentacion/AprendizajeMaquina/Evidencia02/Implementacion_Framework.ipynb**
+        - Descripción del modelo implementado: El modelo implementado es un clasificador de árbol de decisión, esta es una herramienta ideal para la clasificación de datos en clases discretas. Para construir este modelo se utilizó la clase DecisionTreeClassifier de sklearn con el criterio de entropía como parámetro.
+        - Descripción del dataset utilizado:
+            - Nombre: Diabetes Dataset
+            - URL: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 ## Cambios solicitados y respuestas
 
