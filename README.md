@@ -20,6 +20,10 @@ La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas
 
 A continuación, se muestra una lista de los archivos que se deben revisar para calificar cada subcompetencia:
 
+- *Módulo 1: Estadística*
+  - *SMA0101A*
+    - **Evidencia 03: Construcción de un modelo estadístico base** Favor de revisar el archivo **Final/Estadistica/Evidencia03/Modelo_Estadistico.pdf**
+
 - *Módulo 2: Aprendizaje de Máquina*
   - *SMA0401A*
     - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia01/ImplementacionTecnica_ML.ipynb**
@@ -41,8 +45,4 @@ A continuación, se incluye una lista de la ubicación de los problemas que plan
   - *SMA0401A*
     - **Evidencia 01: Implementación de una técnica de aprendizaje máquina sin el uso de un framework** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia01/ImplementacionTecnica_ML_CambiosSolicitados.pdf**
     - **Evidencia 02: Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia02/Implementacion_Framework_CambiosSolicitados.pdf**
-- *Module 2: Machine Learning*
-  - *SMA0401A*
-    - **Evidencia 01: ML from scratch: N/A**
-    - **Evidencia 02: ML from a framework: N/A**
 
