@@ -23,6 +23,10 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Módulo 1: Estadística*
   - *SMA0101A*
     - **Evidencia 03: Construcción de un modelo estadístico base** Favor de revisar el archivo **Final/Estadistica/Evidencia03/Modelo_Estadistico.pdf**
+    - **Actividad 04: Intervalos de confianza** Favor de revisar el archivo **Final/Estadistica/Actividad04/Intervalos_Confianza.pdf**
+    - **Actividad 05: Pruebas de hipótesis** Favor de revisar el archivo **Final/Estadistica/Actividad05/Pruebas_Hipotesis.pdf**
+    - **Actividad 06: ANOVA** Favor de revisar el archivo **Final/Estadistica/Actividad06/Anova.pdf**
+    - **Actividad 07: Regresión lineal** Favor de revisar el archivo **Final/Estadistica/Actividad07/Regresion_Lineal.pdf**
 
 - *Módulo 2: Aprendizaje de Máquina*
   - *SMA0401A*
